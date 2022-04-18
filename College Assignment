@@ -1,0 +1,39 @@
+<HTML>
+<HEAD><TITLE>EXAMPLE2</TITLE></HEAD>
+<BODY>
+
+<B>This line is BOLD</B><BR>
+
+<U>This line is UNDERLINED</U><BR>
+
+<I>This line is ITALICS</I><BR><
+
+<S>Text is STRIKED</S><BR>
+This line is normel<BR>
+
+<BIG>The fornt of this line IS BIG</BIG<>BR>
+<SMALL>The font of this line is small</SMALL<>BR>
+
+<DIV ALIGN="CENTER">
+This line is aligned <B>center</B>
+</DIV>
+
+<DIV ALIGN="LEFT">
+This line is aligned <B>left</B>
+</DIV
+
+<DIV ALIGN="RIGHT">
+This line is aligned<B>right</B>
+</DIV>
+
+<FONT SIZE="+5" COLOUR+"RED"FACE="NEW TIMES ROMAN">
+regional <U>Computer</>Centre
+
+</FONT>
+<FONT SIZE="+3" COLOUR="BLUE" FACE="ARIAL">
+<BR>Regional<I>Computer</I> Center
+</FONT>
+
+</BODY>
+
+</HTML>

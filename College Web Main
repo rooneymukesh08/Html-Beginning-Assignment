@@ -1,0 +1,16 @@
+<html>
+
+<frameset cols="20%,80%"> 
+<frame src="College Courses.html">  
+
+<frameset rows="45%,70%"> 
+<frame src="College details.html"> 
+<frame src="Result Updates.html">
+</frame>
+</frame>
+</frameset>
+</frameset>
+
+</frameset>
+
+</html>

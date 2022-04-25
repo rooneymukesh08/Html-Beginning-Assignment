@@ -1,0 +1,115 @@
+<html>
+<body bgcolor="lightgreen">
+<body bgcolor="lightgreen">
+<h4>List of Courses</h4>
+<u><b> Aided-Course </b></u>
+<ul>
+<a><li><i> B.Sc Physics</i> </a><details>
+<summary><u> Job Offers </u></summary>
+<li>Physicist.
+<li>Physics Lecturer.
+<li>Lab Assistant.
+<li>Research Associate.
+<li>Subject Matter Expert.
+<li>Technician.
+<li>Radiologist Assistant.
+<li>Academic Counselor.</li> </details>
+
+<li><br><i> <a>B.Sc Chemistry</i> </a> <details>
+<summary><u> Job Offers</u> </summary>
+<li>Analytical Chemist.
+<li>Bio-medical Chemist.
+<li>Chemical Engineering Associate.
+<li>Industrial Research Scientist.
+<li>Lab Chemist.
+<li>Materials Technologist.
+<li>Production Chemist.
+<li>Production Officer.</br> </details>
+
+<li><br> <a><i> B.Sc Maths</i></a> <details>
+<summary><u> Job Offers </u></summary>
+ <li>Data Analyst.
+<li>Machine Learning Engineer.
+<li>Operational Researcher.
+<li>Financial/Investment Analyst.
+<li>Research Assistant/Scientist.
+<li>General Manager.
+<li>Actuarial Science.
+<li>Teacher/Professor.</li></br> </details>
+
+<li><br><i> <a>B.Sc zoology </i></a> <details>
+<summary><u> Job Offers </u> </summary>
+<li>Environmental Consultant.
+<li>Research Scientist.
+<li>Marine Biologist.
+<li>Lecturer/Professor.
+<li>Conservation Officer.
+<li>Animal Behaviorist.
+<li>Zoo Officer.
+<li>Ecologist.</br></details>
+
+<li><a><br><i> B.Com Commerce</i></a><details>
+<summary><u> Job Offers </u> </summary>
+<li>Accountant.
+<li>Auditor.
+<li>Consultant.
+<li>Company Secretary.
+<li>Business Analyst.
+<li>Finance Officer.
+<li>Sales Analyst.
+<li>Junior Analyst</br></details>
+</ul>
+<u><b> Un-Aided Course </b> </u>
+<ul>
+<li><a><i> B.Sc Computer Science</i></a> <details>
+<summary><u> Job Offers</u> </summary>
+<li>Systems analyst.
+<li>Information technology manager.
+<li>Software programmer.
+<li>Network programmer.
+<li>Cyber Security Manager.
+<li>Computer Graphics.
+<li>Database manager.</details>
+
+<li><br><i> <a>B.C.A</i> </a> <details>
+<summary><u> Job Offers </summary>
+<li>Computer Programmers.
+<li>Computer Systems Analysts.
+<li>Computer Support Service Specialist.
+<li>Computer Presentation Specialist.
+<li>Commercial And Industrial Designers.
+<li>Database Administrators</details>
+
+<li><a><br> <i>B.B.A </i></a><details>
+<summary> <u> Job Offers </summary>
+<li>Marketing Executive.
+<li>Business Development Executive.
+<li>Sales Executive.
+<li>Human Resource Manager.
+<li>Market Research Analyst.
+<li>Management Trainee</details>
+
+<li><br><a><i> B.A English </i></a> <details>
+<summary> <u> Job Offers </summary>
+<li>English Translator.
+<li>Junior Parliamentary Reporter.
+<li>English Content Writer.
+<li>Faculty of English.
+<li>Call Centre Executive.
+<li>English Tutor.
+<li>Customer Support Executive.
+<li>English Trainer.</details>
+
+<li><br><i> <a>B.Sc Chemistry </i></a> <details>
+<summary><u> Job Offers</u> </summary>
+<li>Analytical Chemist.
+<li>Bio-medical Chemist.
+<li>Chemical Engineering Associate.
+<li>Industrial Research Scientist.
+<li>Lab Chemist.
+<li>Materials Technologist.
+<li>Production Chemist.
+<li>Production Officer.</br> </details>
+</ul>
+</body>
+</html>
